@@ -54,6 +54,8 @@ cd patient_dashboard
 - Install dependencies:
   ```bash
   npm install
+  or
+  npm install --legacy-peer-deps
   ```
 
 - Start the frontend application:
